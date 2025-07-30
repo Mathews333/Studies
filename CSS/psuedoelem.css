@@ -1,0 +1,9 @@
+.main{
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
+}
+.main:hover{
+    transform: translate(600px) rotate(360deg) skew(360deg);
+    transition: 5s ease;
+}

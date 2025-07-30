@@ -1,0 +1,16 @@
+.main{
+    background-color: rgb(239, 200, 142);
+    height: 500px;
+    display: flex;
+   flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    /* align-content: center; */
+}
+.sub{
+    background-color: aquamarine;
+    width: 100px;
+    height: 100px;
+    color: rgb(247, 120, 9);
+}

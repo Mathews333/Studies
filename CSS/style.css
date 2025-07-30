@@ -1,0 +1,22 @@
+body{
+    background: silver;
+    background-image: url("https://imgs.search.brave.com/-61D7xtBEwJxVzh6vH7DotpPjzYkEOmLSEPbTyX_l34/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/ZGV4ZXJ0by5jb20v/Y2RuLWltYWdlL3dw/LWNvbnRlbnQvdXBs/b2Fkcy8yMDI0LzAy/LzIyL2dvZHJpY2st/dGhlLWdyYWZ0ZWQt/ZWxkZW4tcmluZy5q/cGc_d2lkdGg9MTIw/MCZxdWFsaXR5PTYw/JmZvcm1hdD1hdXRv");
+    background-repeat: initial;
+    background-size: cover;
+}
+h1{
+    background-color: rgba(0, 0, 0, 3);
+    font-weight: 900;
+    font-size: 55px;
+    color: bisque;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.paragraph{
+    background: gold;
+    font-weight: 500;
+    font-size: 25px;
+    color: azure;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}

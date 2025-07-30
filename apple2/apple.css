@@ -1,0 +1,304 @@
+.exit nav a {
+    text-decoration: none;
+    color: black;
+
+}
+.esub{
+    width: 60%;
+}
+body {
+    margin: 0px;
+}
+
+.navbar {
+    background-color: rgb(249, 249, 249);
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    font-size: 18px;
+}
+
+.nav {
+    background-color: rgb(255, 255, 255);
+    width: 60%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nav a {
+    color: black;
+    text-decoration: none;
+}
+
+
+
+.bubble {
+    width: 100px;
+
+    background-color: #0071e3;
+    color: white;
+    padding: 20px 30px;
+    border-radius: 30px;
+    margin: 15px;
+    font-size: 1.3rem;
+    max-width: 80%;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.shop-btn {
+    padding: 12px 30px;
+    background-color: rgb(255, 255, 255);
+    color: #0071e3;
+    border: none;
+    border-radius: 25px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.shop-btn:hover {
+    background-color: #0071e3;
+    color: aliceblue;
+}
+
+.bubble2 {
+    width: 150px;
+    height: 35px;
+    background-color: #0071e3;
+    border-radius: 25px;
+    color: white;
+}
+
+.bg {
+    background-image: url('https://www.apple.com/v/home/cf/images/heroes/bts-2025/hero_bts_2025__kjxalx8t7ia2_largetall.jpg');
+    width: 100%;
+}
+
+.nav img {
+    height: 20px;
+    width: 20;
+}
+
+/* .imgs a img{
+  width: 100%;
+} */
+.bubble3 {
+    color: black;
+}
+
+.imgs {
+    background-image: url('hero_iphone_family__fuz5j2v5xx6y_largetall.jpeg');
+    height: 500px;
+    width: 100%;
+}
+
+.learnbutt {
+    padding: 12px 30px;
+    background-color: #0071e3;
+    color: rgb(255, 255, 255);
+    border: none;
+    border-radius: 25px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.shopbutt {
+    padding: 12px 30px;
+    background-color: rgb(255, 255, 255);
+    color: #0071e3;
+    border: none;
+    border-radius: 25px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.shopbutt:hover {
+    background-color: #0071e3;
+    color: rgb(255, 255, 255);
+}
+
+.main {
+    width: 100%;
+    /* height: 500px; */
+    margin-top: 3%;
+    margin-left: 1%;
+    position: relative;
+}
+
+.sub {
+    position: absolute;
+    top: 68%;
+    left: 18%;
+}
+
+.p1 {
+    width: 250px;
+    height: 30px;
+   
+    position: absolute;
+    top: 75%;
+    left: 14%;
+    text-align: center;
+}
+.btn1{
+    padding: 12px 30px;
+    background-color: #0071e3;
+    color: #f3f5f7;
+    border: none;
+    border-radius: 25px;
+   font-size: xx-small;
+    cursor: pointer; 
+    flex-wrap: wrap;
+}
+.learn_btn{
+ padding: 12px 30px;
+    background-color: #ffffff;
+    color: #767676;
+    border: none;
+    border-radius: 25px;
+   font-size: xx-small;
+    cursor: pointer; 
+    flex-wrap: wrap;
+}
+.sub2{
+  width: 250px;
+    height: 30px;
+   
+    position: absolute;
+    top: 85%;
+    right: 15%;
+    text-align: center;   
+}
+.main2 {
+    width: 100%;
+    height: 500px;
+    margin-top: 3%;
+    margin-left: 1%;
+    position: relative;
+    top: 30%;
+    flex-wrap: wrap;
+}
+.sub3{
+   width: 250px;
+    height: 30px;
+   color: #f3f5f7;
+    position: absolute;
+    top: 0%;
+    right: 14%;
+    text-align: center;  
+}
+.p2{
+ width: 250px;
+    height: 30px;
+   color: #f3f5f7;
+    position: absolute;
+    top: 9%;
+  right: 14%;
+    text-align: center;   
+}
+.main3 {
+    width: 100%;
+    height: 500px;
+    margin-top: 3%;
+    margin-left: 1%;
+    position: relative;
+    top: 30%;
+    flex-wrap: wrap;
+}
+.sub4{
+    
+   width: 250px;
+    height: 30px;
+   color: #000000;
+    position: absolute;
+    top: 0%;
+    right: 14%;
+    text-align: center; 
+    flex-wrap: wrap; 
+}
+.p3{
+ width: 250px;
+    height: 30px;
+   color: #0d0d0d;
+    position: absolute;
+    top: 9%;
+  right: 14%;
+    text-align: center;   
+}
+.p4{
+    width: 350px;
+ position: absolute;
+    top: 60%;
+    left: 10%;
+     color: white;
+     text-align: center;
+}
+.buybtn{
+ padding: 12px 30px;
+    background-color: #ffffff;
+    color: #767676;
+    border: none;
+    border-radius: 25px;
+   font-size: xx-small;
+    cursor: pointer; 
+    flex-wrap: wrap;  
+    border: #0071e3; 
+}
+.preend {
+    background-color: whitesmoke;
+    height: inherit;
+    width: 100%;
+
+}
+
+.end {
+    background-color: whitesmoke;
+
+    width: 50%;
+    justify-content: center;
+    position: relative;
+    left: 300px;
+}
+
+.end p {
+    color: rgba(0, 0, 0, 0.56);
+    font-size: 11px;
+    letter-spacing: -0.01em;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: inherit;
+}
+.preend2{
+    background-color: whitesmoke;
+    height: inherit;
+    width: 100%
+}
+.pprenav {
+    background-color: whitesmoke;
+
+}
+
+.prenav {
+    background-color: whitesmoke;
+    width: 17%;
+    height: 30px;
+    display: flex;
+    font-size: 12px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.prenav a {
+
+    text-decoration: none;
+    color: black;
+    letter-spacing: -.01em;
+    position: relative;
+    left: 248px;
+
+}

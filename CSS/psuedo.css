@@ -1,0 +1,12 @@
+a :visited{
+color: yellow;
+}
+a:hover{
+    color:green;
+}
+a:active{
+    color: blue;
+}
+input:focus{
+    background-color: yellowgreen;
+}

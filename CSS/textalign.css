@@ -1,0 +1,18 @@
+p{
+   /* text-align-last: initial;
+    direction: rtl;
+    unicode-bidi: bidi-override;*/
+}
+p img{
+    /*vertical-align: top;*/
+}
+/*p{
+    text-decoration-line:overline underline line-through;
+    text-decoration-color: blueviolet;
+    text-decoration-thickness: 3px;
+    text-decoration-style:dashed;
+}*/
+p{
+    text-decoration: overline underline coral dotted 4px;
+    text-transform: capitalize;
+}
